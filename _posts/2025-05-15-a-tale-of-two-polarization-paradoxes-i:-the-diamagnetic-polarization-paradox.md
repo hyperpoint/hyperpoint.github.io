@@ -1,7 +1,8 @@
 ---
-title: A Tale of Two Polarization Paradoxes I: the Diamagnetic Polarization Paradox
+title: "A Tale of Two Polarization Paradoxes I: the Diamagnetic Polarization Paradox"
 date: 2025-05-15 15:20:31
 categories: [fusion, energy]
+permalink: "/posts/2025-05-15-a-tale-of-two-polarization-paradoxes-i:-the-diamagnetic-polarization-paradox"
 ---
 
 # A Tale of Two Polarization Paradoxes I: the Diamagnetic Polarization Paradox
