@@ -1,7 +1,8 @@
 ---
-title: Axisymmetric Coil Winding Surfaces for Non-Axisymmetric Fusion Devices
-date: 2025-05-15 15:20:30
+title: "Axisymmetric Coil Winding Surfaces for Non-Axisymmetric Fusion Devices"
+date: 2025-05-15 03:20:00
 categories: [fusion, energy]
+permalink: "/posts/2025/05/15/axisymmetric-coil-winding-surfaces-for-non-axisymmetric-fusion-devices/"
 ---
 
 # Axisymmetric Coil Winding Surfaces for Non-Axisymmetric Fusion Devices
