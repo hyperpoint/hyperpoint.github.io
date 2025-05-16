@@ -3,6 +3,8 @@ title: "Demonstration of full-scale spatio-temporal diagnostics of solid-density
 date: 2025-05-15 16:50:50
 categories: [fusion, energy]
 permalink: "/posts/2025/05/01/demonstration-of-full-scale-spatio-temporal-diagnostics-of-solid-density-plasmas-driven-by-an-ultra-short-relativistic-laser-pulse-using-an-x-ray-free-electron-laser/"
+layout: post
+author: Travis Frye
 ---
 
 # Demonstration of full-scale spatio-temporal diagnostics of solid-density plasmas driven by an ultra-short relativistic laser pulse using an X-ray free-electron laser
