@@ -3,6 +3,8 @@ title: "A Tale of Two Polarization Paradoxes I: the Diamagnetic Polarization Par
 date: 2025-05-15 16:45:38
 categories: [fusion, energy]
 permalink: "/posts/2025/05/01/a-tale-of-two-polarization-paradoxes-i-the-diamagnetic-polarization-paradox/"
+layout: post
+author: Travis Frye
 ---
 
 # A Tale of Two Polarization Paradoxes I: the Diamagnetic Polarization Paradox
