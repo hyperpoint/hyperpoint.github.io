@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LLNL Hosts Workshop to Shape the Future of Diode-Pumped Laser Technology"
-date: 2025-05-16 19:50:34
+date: 2025-05-16 20:37:12
 categories: [fusion, energy]
 permalink: "/posts/2025/05/16/llnl-hosts-workshop-to-shape-the-future-of-diode-pumped-laser-technology/"
 author: Travis Frye
