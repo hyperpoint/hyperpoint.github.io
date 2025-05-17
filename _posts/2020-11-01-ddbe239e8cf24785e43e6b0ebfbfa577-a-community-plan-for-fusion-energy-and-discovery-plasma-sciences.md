@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Community Plan for Fusion Energy and Discovery Plasma Sciences"
-date: 2025-05-16 19:50:33
+date: 2025-05-16 20:37:11
 categories: [fusion, energy]
 permalink: "/posts/2020/11/01/a-community-plan-for-fusion-energy-and-discovery-plasma-sciences/"
 author: Travis Frye
