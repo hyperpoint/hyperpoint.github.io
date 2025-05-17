@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Energy Balance Within Thermonuclear Reactors"
-date: 2025-05-16 19:50:33
+date: 2025-05-16 20:37:12
 categories: [fusion, energy]
 permalink: "/posts/2021/04/01/energy-balance-within-thermonuclear-reactors/"
 author: Travis Frye
