@@ -1,10 +1,10 @@
 ---
 layout: default
+title: Home
 ---
 
-Welcome to the Fusion News Blog, where we share the latest updates in fusion energy research.
+# Welcome to FusionCommons.ai Blog
 
-## Latest Posts
-{% for post in site.posts %}
-  * [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+Your daily source for fusion energy breakthroughs, curated insights, and community updates.
+
+[Explore Latest Stories](#) | [Subscribe](#) | [Follow the Fusion100](#)
