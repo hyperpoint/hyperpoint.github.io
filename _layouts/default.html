@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  {% if site.favicon %}
+    <link rel="icon" type="image/x-icon" href="{{ site.favicon }}">
+  {% endif %}
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+    nav {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    nav a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #1B263B; /* Midnight Blue */
+    }
+    nav a:hover {
+      color: #FFC107; /* Electric Yellow */
+    }
+    footer {
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    {% for item in site.header_pages %}
+      {% assign page_item = site.pages | where: "name", item | first %}
+      <a href="{{ page_item.url }}">{{ page_item.title }}</a>
+    {% endfor %}
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>© 2025 FusionCommons.ai</p>
+  </footer>
+</body>
+</html>
