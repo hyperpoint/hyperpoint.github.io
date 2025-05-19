@@ -7,4 +7,4 @@ title: Home
 
 Your daily source for fusion energy breakthroughs, curated insights, and community updates.
 
-[Explore Latest Stories](#) | [Subscribe](#) | [Follow the Fusion100](#)
+[Explore Latest Stories](/blog) | [Subscribe](#) | [Follow the Fusion100](#)
