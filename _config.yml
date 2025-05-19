@@ -1,3 +1,53 @@
+# Site settings
+title: FusionCommons.ai Blog
+description: Your daily source for fusion energy breakthroughs, curated insights, and community updates.
+baseurl: ""  # Leave empty for GitHub Pages root deployment
+url: "https://hyperpoint.github.io"  # The base URL of the site
+author: Travis Frye
+logo: "/assets/images/fusioncommons-logo.png"  # Placeholder for a logo (to be added)
+favicon: "/assets/images/favicon.ico"  # Placeholder for a favicon (to be added)
+
+# Theme settings
 theme: jekyll-theme-minimal
-title: Fusion News Blog
-description: A blog for fusion energy news and updates
+show_downloads: false  # Disable download links (not relevant for a blog)
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:year/:month/:day/:title/
+
+# Default settings for posts
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Travis Frye"
+      note: "This article was generated with AI assistance using the Fusion Authority Engine, orchestrated by Travis Frye."
+      collaboration: "In collaboration with leading fusion research entities."
+
+# Navigation settings
+header_pages:
+  - index.md
+  - blog.md
+
+# SEO and social settings
+twitter_username: FusionCommonsAI  # Placeholder (to be set up)
+github_username: hyperpoint
+linkedin_username: fusioncommonsai  # Placeholder (to be set up)
+
+# Pagination (optional, for better navigation)
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Category settings (for better organization)
+collections:
+  categories:
+    output: true
+    permalink: /category/:name/
+
+# Plugins (for additional functionality)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
