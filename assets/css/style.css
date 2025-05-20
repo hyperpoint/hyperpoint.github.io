@@ -1,1 +1,27 @@
 
+body {
+  background: #fdfdfd;
+  color: #1B263B;
+  font-family: 'DM Sans', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #FFC107;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.post-list li {
+  margin-bottom: 2rem;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
