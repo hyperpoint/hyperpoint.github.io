@@ -9,10 +9,6 @@ note: This article was generated with AI assistance using the Fusion Authority E
 collaboration: In collaboration with leading fusion research entities.
 ---
 
-# A Community Plan for Fusion Energy and Discovery Plasma Sciences
-
-### A Community Plan for Fusion Energy and Discovery Plasma Sciences: Energizing the Future
-
 Imagine a world where clean, abundant energy powers our cities, industries, and homes without contributing to climate change. This vision could soon become a reality, thanks to groundbreaking advancements in fusion energy and plasma sciences. The recent Community Planning Process (CPP) report, initiated by the American Physical Society Division of Plasma Physics and designed to guide the U.S. Department of Energy's Fusion Energy Sciences Advisory Committee, lays a strategic roadmap to make this vision a reality.
 
 #### The Promising Path of Fusion Energy
