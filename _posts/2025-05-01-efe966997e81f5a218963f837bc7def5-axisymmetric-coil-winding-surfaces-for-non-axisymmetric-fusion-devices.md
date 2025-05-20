@@ -7,10 +7,6 @@ layout: post
 author: Travis Frye
 ---
 
-# Axisymmetric Coil Winding Surfaces for Non-Axisymmetric Fusion Devices
-
-### Axisymmetric Coil Winding Surfaces for Non-Axisymmetric Fusion Devices
-
 In the quest to harness the immense power of nuclear fusion, stellarators have emerged as a leading technology. Unlike their more common counterpart, the tokamak, stellarators use a complex arrangement of magnetic coils to maintain the plasma's shape and stability without requiring a constant large electric current. This unique feature helps avoid some of the instabilities that tokamaks typically face. However, the complexity of the coil design in stellarators has been a significant engineering challenge—until now. New research revealed in the paper arXiv:2505.07703 promises a groundbreaking approach to simplify these designs while enhancing the device's efficiency.
 
 #### Simplifying Complexity: A Novel Approach to Coil Design
