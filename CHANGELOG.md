@@ -10,3 +10,6 @@
 
 ## 2025-05-20 (continued)
 - **Added**: Immediate publishing option with --immediate flag in fusion_news_agent.py while preserving scheduling for production.
+
+## 2025-05-20 (continued)
+- **Updated**: Cleaned up blog styling in blog.md, removed redundant titles/URLs, added deduplication, and improved layout with CSS.
