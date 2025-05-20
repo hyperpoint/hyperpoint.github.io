@@ -13,3 +13,6 @@
 
 ## 2025-05-20 (continued)
 - **Updated**: Cleaned up blog styling in blog.md, removed redundant titles/URLs, added deduplication, and improved layout with CSS.
+
+## 2025-05-20 (continued)
+- **Updated**: Cleaned up post page styling in post.html, removed duplicate titles, improved paragraph spacing, moved metadata to bottom.
