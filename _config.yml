@@ -38,7 +38,7 @@ linkedin_username: fusioncommonsai  # Placeholder (to be set up)
 
 # Pagination (optional, for better navigation)
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page:num"
 
 # Category settings (for better organization)
 collections:
