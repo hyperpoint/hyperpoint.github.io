@@ -22,8 +22,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Travis Frye"
-      note: "This article was generated with AI assistance using the Fusion Authority Engine, orchestrated by Travis Frye."
+      author: "FusionCommons.ai Team"
+      note: "This article was generated with AI assistance using the Fusion Authority Engine, developed by Travis Frye."
       collaboration: "In collaboration with leading fusion research entities."
 
 # Navigation settings
