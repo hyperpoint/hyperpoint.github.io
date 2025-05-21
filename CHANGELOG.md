@@ -22,3 +22,6 @@
 
 ## 2025-05-21 (continued)
 - **Added**: Quote limits (150 words, 2 sentences) for legal compliance.
+
+## 2025-05-21 (continued)
+- **Fixed**: De-duplication in reprocess/publish modes and preserved publish dates.
