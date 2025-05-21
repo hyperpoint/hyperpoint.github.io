@@ -16,3 +16,6 @@
 
 ## 2025-05-20 (continued)
 - **Updated**: Cleaned up post page styling in post.html, removed duplicate titles, improved paragraph spacing, moved metadata to bottom.
+
+## 2025-05-20 (continued)
+- **Fixed**: Ensured all articles (NIF, FIA) are saved as PDFs and restored FIA article.
