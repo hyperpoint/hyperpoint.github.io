@@ -19,3 +19,6 @@
 
 ## 2025-05-20 (continued)
 - **Fixed**: Ensured all articles (NIF, FIA) are saved as PDFs and restored FIA article.
+
+## 2025-05-21 (continued)
+- **Added**: Quote limits (150 words, 2 sentences) for legal compliance.
