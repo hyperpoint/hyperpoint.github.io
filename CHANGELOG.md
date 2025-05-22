@@ -25,3 +25,6 @@
 
 ## 2025-05-21 (continued)
 - **Fixed**: De-duplication in reprocess/publish modes and preserved publish dates.
+
+## 2025-05-21 (v5)
+- **Fixed**: Attribute errors in FusionScraper, NIF/FIA selectors, and arXiv relevance.
