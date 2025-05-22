@@ -31,3 +31,6 @@
 
 ## 2025-05-21 (v5)
 - **Fixed**: Attribute errors in FusionScraper, NIF/FIA selectors, and arXiv relevance.
+
+## 2025-05-22 (v9)
+- **Fixed**: Syntax error in scrape_rss_source, removed incorrect web scraping for RSS feed.
